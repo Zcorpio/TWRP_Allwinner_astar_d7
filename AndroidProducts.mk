@@ -1,3 +1,3 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/X5en_MIPIjdf.mk \
-    $(LOCAL_DIR)/omni_X5en_MIPIjdf.mk
+    $(LOCAL_DIR)/astar_d7.mk \
+    $(LOCAL_DIR)/omni_astar_d7.mk
